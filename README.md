@@ -10,7 +10,7 @@ We are using the Olist database to do a BI project.
 The data is from kaggle.com. The database has 14 tables, 90 columns. 
 
 ### Project plan:
-We will use python to join tables, clean tables and explore the data. We will not join all tables into one dataframe. We will join them according to the questions we have. For charts and dashboards we will use tableau.
+We will use python and mysql to join tables, clean tables and explore the data. We will not join all tables into one dataframe. We will join them according to the questions we have. For charts and dashboards we will use tableau.
 
 - First day: exploring and understanding our data, deciding our questions and which tables to join and then starting cleaning the data (missing values, duplicates, typos, checking the data types, standardize some values if needed).
 - Day 2: continue with joining and cleaning, start thinking about the charts.
